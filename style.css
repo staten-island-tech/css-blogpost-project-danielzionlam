@@ -1,11 +1,5 @@
-body {
-    background-color:bisque;
-    color:cornflowerblue;
-    font-size: 25px;
-}
-h1 {
-    color:red
-}
-.main-header{
-    color:olivedrab
+.background{
+    background-color: grey;
+    padding: 5px 5px;
+    color:white
 }
