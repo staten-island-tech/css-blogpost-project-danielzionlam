@@ -1,5 +1,6 @@
 .background{
-    background-color: grey;
-    padding: 5px 5px;
-    color:white
+    background-image: url(img/frusci.jpg);
+    background-size: cover;
+    color: silver;
+    height: 50vh;
 }
