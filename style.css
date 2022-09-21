@@ -1,6 +1,18 @@
-.background{
-    background-image: url(img/frusci.jpg);
-    background-size: cover;
-    color: silver;
-    height: 50vh;
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color:darkslategrey;
+}
+.parent {
+    border: 5px solid silver;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    margin-top: 200px;
+}
+.child {
+    border: 3px solid powderblue;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
 }
