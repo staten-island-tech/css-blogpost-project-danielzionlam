@@ -1,18 +1,15 @@
 body{
     font-family: 'Oswald', sans-serif;
-    background-color:darkslategrey;
+    background-color:black;
+    color: gold;
 }
-.parent {
-    border: 5px solid silver;
-    height: 500px;
-    width: 500px;
-    position: relative;
-    margin-top: 200px;
+.main-header {
+    color:lightgray;
+    font-size: 70px;
 }
-.child {
-    border: 3px solid powderblue;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%)
+.head{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    background-color: darkred;
 }
