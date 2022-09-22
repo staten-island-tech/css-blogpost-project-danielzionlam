@@ -43,10 +43,12 @@ body{
 .drip{
     top: 10%;
     left: 10%;
+    background-color: blanchedalmond;
 }
 .whip{
     top:15%;
     left:10%;
+    background-color:blanchedalmond;
 }
 p{
     font-size: 22px;
