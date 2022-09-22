@@ -1,7 +1,7 @@
 body{
     font-family: 'Oswald', sans-serif;
     background-color:black;
-    color: gold;
+    color:black;
 }
 .main-header {
     color:lightgray;
@@ -12,4 +12,39 @@ body{
     margin-top: 50px;
     margin-bottom: 30px;
     background-color: darkred;
+    padding: 15px;
+}
+.h3s{
+    background-image: url(frusci.jpg);
+    height: 340vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 25px;
+}
+.parent{
+    border: 5px solid darkblue;
+    text-align: center;
+}
+.child{
+    border: 5px solid goldenrod;
+    width: 1000px;
+    height: 200px;
+    text-align: center;
+    position: relative;
+}
+.scent{
+    top:5%;
+    left:10%;
+}
+.drip{
+    top: 10%;
+    left: 10%;
+}
+.whip{
+    top:15%;
+    left:10%;
+}
+p{
+    font-size: 22px;
 }
