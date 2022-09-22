@@ -3,6 +3,9 @@ body{
     background-color:black;
     color:black;
 }
+#id{
+    color: goldenrod
+}
 .main-header {
     color:lightgray;
     font-size: 70px;
@@ -47,4 +50,7 @@ body{
 }
 p{
     font-size: 22px;
+}
+span{
+    font-weight: bold;
 }
